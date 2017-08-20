@@ -1,0 +1,663 @@
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Questrial|Cinzel:400,700);
+
+body {
+	font-size:16px;	
+	font-family: 'Questrial', sans-serif;
+	color:#333;
+}
+
+h3 {
+	font-family: 'Cinzel', serif;
+	font-size: 16px;	
+}
+
+div.disclaimer{
+	padding: 0px 50px;
+	text-align:center;
+}
+
+
+#mainwrapper {
+    display: block;
+    clear: both;
+    max-width: 960px;
+    margin: 0 auto;
+    background: #fff;
+    overflow: hidden;
+}
+
+#mainwrapper header {
+	/*Header */
+	background-color: #FFFFFF;
+	overflow-x:hidden;
+	font-family: montserrat, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+#mainwrapper header #logo {
+	/* Company Logo text */
+	width: 100%;
+	margin:0 auto;
+	text-align:center;
+	float: center;
+	padding-left: 2%;
+	padding-top: 12px;
+	padding-bottom: 0;
+	color: rgba(255,255,255,1.00);
+}
+#mainwrapper header nav {
+	/*Nav bar containing links in header */
+	font-family: 'Cinzel', serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	position: static;
+	margin-right: 30px;
+	display:inline;
+	padding-bottom: 12px;
+	padding-right: 2%;
+	width: 100%;
+	margin:0 auto;
+	text-align:center;
+	float: left;
+	color: #FFFFFF;
+	
+}
+header nav a {
+	/* Links in header */
+	padding-right: 2%;
+}
+
+a.active {
+	color:#000000;
+}
+
+a:visited {
+	color:#cecece;	
+}
+
+h1 {
+	font-family: 'Cinzel', serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 0;
+    line-height: 36px;
+    word-wrap: break-word;
+    color: #c3a43e;	
+	font-weight:100;
+}
+
+h4 {
+	font-family: 'Cinzel', serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 0;
+    line-height: 36px;
+    word-wrap: break-word;
+    color: #8c8c8c;	
+	font-weight:100;
+}
+
+#content #mainContent h1, #content #mainContent h2 {
+	/* Styling for main headings */
+	color: rgba(146,146,146,1.00);
+}
+#content #mainContent h3 {
+	font-style: normal;
+	font-weight: 200;
+	color: rgba(146,146,146,1.00);
+}
+#content #mainContent #bannerImage {
+	/*Container for main banner image */
+	width: 100%;
+	background-color: rgba(208,207,207,1.00);
+}
+#content #mainContent p {
+	/* All paragraphs under maincontent */
+	color: #333;
+	font-size:14px; /* 14 ? */
+	line-height:22px;
+	font-style: normal;
+	font-weight: 200;
+}
+#content #mainContent #authorInfo {
+	/* Author info section */
+	background-color: rgba(208,207,207,1.00);
+}
+#content #mainContent #authorInfo h2, #content #mainContent #authorInfo p {
+	color: rgba(255,255,255,1.00);
+	padding-left: 2%;
+	padding-top: 11px;
+}
+#content #mainContent #authorInfo p {
+	color: rgba(255,255,255,1.00);
+	padding-left: 2%;
+	padding-top: 0px;
+	padding-bottom: 11px;
+	padding-right: 2%;
+}
+
+#homeFooter {
+	padding:2.0em 0 0 0;
+	
+}
+#homeFooter > article > p > a> img {
+	padding:0;
+	margin:0;	
+}
+
+#footer-address {
+    width: 60%;
+    float: left;
+}
+
+
+#footer-sign-up-wrap {
+    position: relative;
+    width: 40%;
+    float: left;
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 0;
+    line-height: 36px;
+    word-wrap: break-word;
+    color: #999;
+}
+
+#footer-sign-up-wrap input[type="submit"] {
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+footer article {
+	/* Footer articles */
+	width: 310px;
+	float: left;
+	padding-left: 0;
+	padding-right: 10px;
+	font-style: normal;
+	font-weight: 200;
+}
+footer article h3 {
+	/* Footer article titles */
+	text-align: center;
+	font-family: montserrat, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+.downloadlink {
+    line-height: 22px;
+}
+div.accord {
+    font-size: 13px;
+	
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding: 0;
+}
+.downloadtype {
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 0;
+    line-height: 36px;
+    word-wrap: break-word;
+    color: #525252;
+    width: 100%;
+    display: block;
+}
+div.download > a.downloadlink {
+	color:#000;	
+}
+
+.notes ul {
+    padding: 0;
+    list-style-type: none;
+    margin-left: auto;
+}
+
+strong { 
+	font-weight: bold; 
+	}
+	
+#brand-about {
+    display: block;
+    font-size: 13px;
+    line-height: 26px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+	width:100%;
+}
+	
+#brand-includes {
+    display: block;
+    font-size: 12px;
+}	
+
+#brand-includes h3 {
+    width: 310px;
+    color: #8C8C8C;
+    font-family: 'Cinzel',serif;
+    font-size: 15px;
+    line-height: 36px;
+    margin-top: 0;
+    text-transform: uppercase;
+    word-wrap: break-word;
+}
+.brand-includes-content {
+    line-height: 22px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.brand-includes ul {
+	width: 300px;
+	padding-top: 0em;
+	padding-right: 0em;
+	padding-left: 0em;
+	padding-bottom: 0em;
+	float: left;
+	text-align: left;
+	
+}
+
+.brand-includes li {
+	display: inline;
+	list-style-type: none;
+	width: 300px;
+	padding: 0;
+	padding-right: 18px;
+	float: left;
+	text-align: left;
+	font-size: 13px;
+}
+
+.brand-includes > ul > li > p {
+	font-size: 13px !important;
+	margin-right:12px;
+}
+
+.brand-includes-more {
+ }
+
+.notes li {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 5px;
+    margin-left: 0em;
+}
+.entry-content li {
+    font-size: 14px;
+    margin: 0 0 1em 0;
+    list-style-type: square;
+}
+#mainContent {
+	/* Container for the blog post in individal blog view */
+	padding-left: 5%;
+	width: 62.5%; /*was 71 */
+	float: left;
+	padding-right: 2%;
+	padding-top: 41px;
+}
+#mainwrapper #content #sidebar {
+	/* Sidebar*/
+	width: 25%;
+	padding-left: 0;
+	float: left;
+	background-color: none;
+	margin-top: 2px;
+	padding-top: 32px;
+}
+
+div.varietals{
+	margin: 0 auto;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+	left:200px;
+	padding:  40px 30px;
+}
+
+.varietals img{
+	height:260px;
+	align-items: center;
+	
+}
+
+.caption {
+	display:block;
+	color:#c3a43d;
+	text-transform: uppercase;
+	vertical-align: center;
+	text-align:center;
+    text-decoration:none;
+	
+}
+
+a:link{
+	
+    text-decoration:none;
+}
+
+
+
+
+
+#sidebar > nav {
+	margin-left:25px;	
+}
+
+/*#mainwrapper {
+	 Container of all content 
+	width: 80%;
+	overflow: auto;
+	margin-left: 10%;
+}*/
+#content #sidebar input {
+	/* Search box in sidebar */
+	width: 98%;
+	height: 32px;
+}
+#content #sidebar #adimage {
+	/* Container for Image in sidebar */
+	width: 100%;
+	background-color: rgba(208,207,207,1.00);
+	margin-top: 46px;
+	float: none;
+	overflow: auto;
+}
+nav ul li {
+	display:inline;
+	list-style-type: none;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.sidebar {
+	display:list-item;
+	}
+	
+#sidebar h3 {
+    color: #8C8C8C;
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    line-height: 36px;
+    margin-top: 0;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    margin-bottom: 10px;
+	font-weight:100;
+}	
+
+#sidebar li.current-menu-item a {
+    background-image: url(images/sidebar-bullet-over.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    color: #333;
+}
+
+#region-single li {
+    list-style-type: disc;
+    margin-bottom: 12px;
+	font-size:13px;
+	line-height:18px;
+}
+
+#sidebar ul li a {
+    text-decoration: none;
+    display: block;
+    font-size: 12px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    color: #666;
+    background-image: url(../images/sidebar-bullet.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 7px;
+    padding-top: 2px;
+    padding-right: 0;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    line-height: 18px;
+}
+
+nav ul {
+	margin-top:0;
+	padding-left: 0;
+}
+nav ul li a {
+	color: rgba(146,146,146,1.00);
+	text-decoration: none;
+}
+#footerbar {
+	/* Footer bar at the bottom of the page */
+	height: 18px;
+	clear: both;
+	background-color: #FFF;
+	width: 100%;
+}
+
+
+#footer-address ul {
+    list-style-type: none;
+}
+
+#footer-address ul li {
+	display:inline;	
+    list-style-type: none;
+    padding-right: 15px;
+}
+
+footer {
+	/* Container for footer artices */
+	width: 100%; /* was 71 */
+	padding-left: 2%;
+	padding-right: 2%;
+}
+#bottom-footer-wrap {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+}
+#bottom-footer {
+    max-width: 960px;
+    font-size: 12px;
+    color: #999;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 70px;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+#footer-address a {
+    color: #999;
+    text-decoration: none;
+}
+
+#menu-footer {
+	padding-left:0;	
+}
+
+.feat {
+	margin:0 auto;
+	text-align:center;	
+}
+
+#varietal-content {
+    width: 49.2%;
+    margin-right: 1.6%;
+    float: left;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.collapsible-wrapper {
+    margin: 20px 0 0;
+    /*border-top: 1px solid #525252;*/
+}
+#varietal-content h2 {
+    border-bottom: 1px solid #525252;
+}
+.entry-content h2 {
+    color: #8c8c8c;
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    line-height: 36px;
+    margin-top: 0;
+    text-transform: uppercase;
+    word-wrap: break-word;
+	font-weight:100;
+}
+.notOnDesktop {
+	/*element to be displayed only in mobile view and tabet view */
+	display: none;
+}
+#mainContent #bannerImage img {
+	/* Actual banner image */
+	width: 100%;
+}
+#sidebar img {
+	/* Image in sidebar 
+	width: 100%;*/
+	float: left;
+	margin-top:30px;
+	overflow:visible;
+}
+#mainwrapper header nav a {
+	/* Links in header 
+	color: rgba(146,146,146,1.00);*/
+	text-decoration: none;
+}
+
+/* Tablet view */
+@media screen and (max-width:769px) {
+.notOnDesktop {
+	/* Search box shown only in mobile view and Tablet view */
+	display: block;
+	text-align: right;
+	padding-right: 8px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	width: 96%;
+}
+#content .notOnDesktop input {
+	height: 28px;
+}
+#mainContent {
+	/* Container for the blog post */
+	padding-top: 0px;
+	float: none;
+	width: 96%;
+}
+#sidebar input {
+	/* Search box in sidebar */
+	display: none;
+}
+#mainwrapper #content #sidebar {
+	/* Sidebar*/
+	float: none;
+	width: 92%;
+	padding-top: 13px;
+	overflow: auto;
+	margin-top: 3px;
+	margin-left: 2%;
+	padding-bottom: 13px;
+}
+#content #sidebar #adimage {
+	/* Image in sidebar */
+	width: 60%;
+	margin-top: 0px;
+	float: left;
+}
+#content #sidebar nav {
+	/* Navigation links in sidebar */
+	width: 36%;
+	float: left;
+	padding-left: 0%;
+}
+
+#sidebar nav ul {
+	margin-top: 0px;
+}
+footer {
+	/* Footer region */
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+#content footer article {
+	/*Each footer article */
+	width: 46%;
+	float:left;
+}
+#mainwrapper header {
+	/* Header */
+	width: 100%;
+	background-color:#FFFFFF;
+}
+}
+
+/* Mobile view */
+@media screen and (max-width:480px) {
+#mainwrapper header #logo {
+	/* Company Logo text in header */
+	width: 96%;
+	margin-left: 2%;
+}
+#mainwrapper header nav {
+	/*navigation links in header */
+	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+	width: 98%;
+}
+#content #sidebar #adimage {
+	/* Container for image in sidebar */
+	width: 100%;
+}
+#content #sidebar nav {
+	/* Navigation bar for links in sidebar */
+	width: 96%;
+	padding-top: 7px;
+}
+#sidebar nav ul li {
+	display: inline-block;
+	width: 32%;
+	text-align: center;
+}
+#mainwrapper #content #sidebar {
+	/* sidebar */
+	padding-bottom: 0px;
+}
+#content .notOnDesktop {
+	/* Search box shown only in mobile and tablet view */
+	width: 100%;
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#content .notOnDesktop input {
+	width: 80%;
+	text-align: center;
+}
+#content #mainContent h3 {
+	/* Title under maincontent, if any */
+	font-size: 14px;
+}
+#content footer article {
+	/* Each foter article */
+	width: 96%;
+}
+}

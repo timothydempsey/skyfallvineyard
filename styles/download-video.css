@@ -1,0 +1,30 @@
+/***************************
+ * Download Video          *
+ ***************************/
+#downloadButton {
+    width: 34px;
+    height: 33px;
+    margin-top: 6px;
+}/* CSS Document */
+#myPlayerID .vjs-big-play-button {
+      background-color: #0000FF;
+      opacity: .3;
+    }
+	
+	 
+    .video-js {
+      width: 640px;
+      height: 480px;
+    }
+   #myPlayerID .vjs-control-bar {
+      transform: none;
+      -webkit-transform: none;
+  	  -ms-transform: none;
+   }
+	.vjs-volume-menu-button.vjs-menu-button-inline {
+  		width: 24em;
+	}	
+
+	.vjs-volume-menu-button.vjs-menu-button-inline .vjs-menu {
+  	opacity: 1;
+	}
