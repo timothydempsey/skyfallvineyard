@@ -20,7 +20,6 @@
 <file name="sitemap.xml" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131257900591836973" remote="131258080800000000" Dst="1" />
 <file name="404.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131477028966763774" remote="131477172600000000" Dst="2" />
 <file name="web.config" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466956400000000" remote="131466956400000000" Dst="2" />
-<file name="Skyfall404.css" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131438455630780254" remote="131438599200000000" Dst="2" />
 <file name="index.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819725279187" remote="131466963600000000" Dst="2" />
 <file name="privacy-policy.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819726131456" remote="131466963600000000" Dst="2" />
 <file name="about.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819724045930" remote="131466963600000000" Dst="2" />
