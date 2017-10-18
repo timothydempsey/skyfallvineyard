@@ -36,37 +36,15 @@
 </script>
 <div id="mainwrapper">
   <header> 
-    <!--**************************************************************************
-    Header starts here. It contains Logo and 3 navigation links. 
-    ****************************************************************************-->
-    <div style="margin:0 auto;text-align:center"  id="logo">
-    <a href="index.html" title="Skyfall Vineyard" rel="home"><img src="images/skyfall-vineyard-logo.png" class="img-responsive" alt="Skyfall Vineyard Logo" ></a>
+    <div id="logo">
+     <h1 id="site-title">
+    <a href="index.php" title="Skyfall Vineyard" rel="home"><img src="images/skyfall-vineyard-logo.png" class="img-responsive" alt="Skyfall Vineyard Logo" ></a></h1>
     </div>
     		<div style="clear:both"></div>
-    		
-            
-            <nav>
-            <ul>
-            	<li>
-					<a href="index.html">HOME</a> 
-            	</li>
-                <li>
-                	<a href="#" title="Link" class="active">ABOUT</a>
-            	</li> 
-                <li>
-                	<a href="our-wine.html" title="Link">THE WINES</a> 	
-                </li>
-                <li>
-                	<a href="http://www.deutschfamily.com/the-deutsch-family-our-brands/skyfall-vineyard-facts/" title="Link">TRADE TOOLS</a>                 </li>
-               <li>
-                	<a href="http://www.skyfall-finder.dfwsdev.com/store-locator.html" title="Locator">STORE LOCATOR</a> 	
-                </li>
-                <li>
-                	<a href="contact" title="Link">CONTACT</a> 	
-                </li>
-                   
-            </ul>
-            </nav>
+    <?php
+     $page = 'about';      
+     require_once('includes/common.php');
+    ?>
 
 
 	<div id="bannerImage"></div></header>
@@ -104,7 +82,7 @@
                     <div class="menu-footer-container">
                     	<ul id="menu-footer">
                             <li><a href="about.php">About</a></li>
-                            <li><a href="our-wine.html">The Wines</a></li>
+                            <li><a href="our-wine.php">The Wines</a></li>
                             <li><a target="_blank" href="http://www.deutschfamily.com/the-deutsch-family-our-brands/skyfall-vineyard-facts/">Trade Tools</a></li>
                             <li><a href="contact">Contact</a></li>
                             <li><a href="privacy-policy.php">Privacy Policy</a></li>

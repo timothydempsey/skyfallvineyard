@@ -80,9 +80,9 @@ a.active {
 	color:#000000;
 }
 
-a:visited {
+/*a:visited {
 	color:#cecece;	
-}
+}*/
 
 h1 {
 	font-family: 'Cinzel', serif;
@@ -397,7 +397,7 @@ nav ul {
 	padding-left: 0;
 }
 nav ul li a {
-	color: rgba(146,146,146,1.00);
+	/*color: rgba(146,146,146,1.00);*/
 	text-decoration: none;
 }
 #footerbar {

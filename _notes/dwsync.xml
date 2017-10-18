@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="about.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466808475383899" remote="131466952800000000" Dst="2" />
-<file name="contact.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819724487086" remote="131466963600000000" Dst="2" />
-<file name="cabernet-sauvignon.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819720945879" remote="131466963600000000" Dst="2" />
-<file name="merlot.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819721850074" remote="131466963600000000" Dst="2" />
-<file name="our-wine.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819725710341" remote="131466963600000000" Dst="2" />
-<file name="pinot-gris.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819722301277" remote="131466963600000000" Dst="2" />
-<file name="privacy-policy.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819720274221" remote="131466963600000000" Dst="2" />
-<file name="washington-region.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819723123458" remote="131466963600000000" Dst="2" />
-<file name="winemaker-david-minick.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819723594710" remote="131466963600000000" Dst="2" />
-<file name="favicon.ico" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131074568134000768" remote="131075740800000000" Dst="2" />
-<file name="chardonnay.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819721417148" remote="131466963600000000" Dst="2" />
-<file name="red-blend.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131477026810000000" remote="131477171400000000" Dst="2" />
+<file name="cabernet-sauvignon.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275762832762" remote="131528419800000000" Dst="2" />
+<file name="merlot.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275763807982" remote="131528419800000000" Dst="2" />
+<file name="pinot-gris.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275764655279" remote="131528419800000000" Dst="2" />
+<file name="washington-region.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528278664508019" remote="131528422200000000" Dst="2" />
+<file name="favicon.ico" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528278029172339" remote="131075740800000000" Dst="2" />
+<file name="chardonnay.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275763050918" remote="131528419800000000" Dst="2" />
+<file name="red-blend.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275764946548" remote="131528419800000000" Dst="2" />
 <file name="phpsqlsearch_dbinfo.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131157481524217641" remote="131438555400000000" Dst="2" />
 <file name="phpsqlsearch_map.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131157627568403283" remote="131438555400000000" Dst="2" />
 <file name="phpsqlsearch_genxml.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131157519703621320" remote="131438555400000000" Dst="2" />
 <file name="testVideo.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131414271108694440" remote="131230371600000000" Dst="2" />
 <file name="videoTest2.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131414271109789585" remote="131230361400000000" Dst="2" />
 <file name="sitemap.xml" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131257900591836973" remote="131258080800000000" Dst="1" />
-<file name="404.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131477028966763774" remote="131477172600000000" Dst="2" />
+<file name="404.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528244638952466" remote="131528388600000000" Dst="2" />
 <file name="web.config" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466956400000000" remote="131466956400000000" Dst="2" />
-<file name="index.html" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819725279187" remote="131466963600000000" Dst="2" />
-<file name="privacy-policy.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819726131456" remote="131466963600000000" Dst="2" />
-<file name="about.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466819724045930" remote="131466963600000000" Dst="2" />
-<file name="index.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131466816782218141" remote="131466963600000000" Dst="2" />
+<file name="privacy-policy.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275764745565" remote="131528419800000000" Dst="2" />
+<file name="index.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528276888916205" remote="131528420400000000" Dst="2" />
+<file name="our-wine.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528276052331041" remote="131528419800000000" Dst="2" />
+<file name="contact.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528277245069643" remote="131528421000000000" Dst="2" />
+<file name="about.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275762622072" remote="131528419800000000" Dst="2" />
+<file name="winemaker-david-minick.php" server="C:/wamp64/www/skyfallvineyard" local="131528275815332567" remote="131528275810000000" Dst="2" />
+<file name="winemaker-david-minick.php" server="waws-prod-bn1-005.ftp.azurewebsites.windows.net/site/wwwroot/" local="131528275815332567" remote="131528419800000000" Dst="2" />
+<file name="our-wine.php" server="C:/wamp64/www/skyfallvineyard" local="131528388600000000" remote="131528388600000000" Dst="2" />
+<file name="index.php" server="C:/wamp64/www/skyfallvineyard" local="131528276888916205" remote="131528276880000000" Dst="2" />
+<file name="contact.php" server="C:/wamp64/www/skyfallvineyard" local="131528277245069643" remote="131528277240000000" Dst="2" />
+<file name="privacy-policy.php" server="C:/wamp64/www/skyfallvineyard" local="131528275764745565" remote="131528275760000000" Dst="2" />
 </dwsync>

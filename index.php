@@ -42,22 +42,23 @@
     <!--**************************************************************************
     Header starts here. It contains Logo and 3 navigation links. 
     ****************************************************************************-->
-    <div style="margin:0 auto;text-align:center" id="logo">
-    <a href="index.html" title="Skyfall Vineyard" rel="home"><img src="images/skyfall-vineyard-logo.png" class="img-responsive" alt="Skyfall Vineyard Logo" ></a>
-    </div>
-    		<div style="clear:both"></div>
-    		
+    <div id="logo">
+      <h1 id="site-title">
+      <a href="#" title="Skyfall Vineyard" rel="home"><img src="images/skyfall-vineyard-logo.png" class="img-responsive" alt="Skyfall Vineyard Logo" ></a>
+    </h1></div>
+    <div style="clear:both"></div>
+     <?php $page = 'home'; include('includes/common.php'); ?>		
             
-            <nav>
+   <!--         <nav>
             <ul>
             	<li>
 					<a href="#" title="Link" class="active">HOME</a> 
             	</li>
                 <li>
-                	<a href="about.html" title="Link">ABOUT</a>
+                	<a href="about.php" title="Link">ABOUT</a>
             	</li> 
                 <li>
-                	<a href="our-wine.html" title="Link">THE WINES</a> 	
+                	<a href="our-wine.php" title="Link">THE WINES</a> 	
                 </li>
                 <li>
                 	<a href="http://www.deutschfamily.com/the-deutsch-family-our-brands/skyfall-vineyard-facts/" title="Link">TRADE TOOLS</a></li>
@@ -70,7 +71,7 @@
                    
             </ul>
             </nav>
-			
+			-->
 	
     
     </header>
@@ -96,7 +97,7 @@
       </article>
       <article>
         
-        <a href="winemaker-david-minick.html"><img src="images/winemaker-david-j-minick.jpg" alt="Winemaker David J. Minick" width="309" height="190"/></a>
+        <a href="winemaker-david-minick.php"><img src="images/winemaker-david-j-minick.jpg" alt="Winemaker David J. Minick" width="309" height="190"/></a>
         
       </article>
       <article>
@@ -121,8 +122,8 @@
              		<p>P: <a href="tel:12039654100">203.965.4100</a> • 201 Tresser Boulevard, Suite 500, Stamford, CT 06904-3435</p>
                     <div class="menu-footer-container">
                     	<ul id="menu-footer">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="our-wine.html">The Wines</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="our-wine.php">The Wines</a></li>
                             <li><a target="_blank" href="http://www.deutschfamily.com/the-deutsch-family-our-brands/skyfall-vineyard-facts/">Trade Tools</a></li>
                             <li><a href="contact">Contact</a></li>
                             <li><a href="privacy-policy.php">Privacy Policy</a></li>
