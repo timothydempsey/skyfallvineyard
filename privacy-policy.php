@@ -16,7 +16,10 @@
     </h1></div>
     <div style="clear:both"></div>
     		
-<?php include("includes/common.php"); ?>            
+<?php
+     $page = 'privacy';      
+     require_once('includes/common.php');
+    ?>            
 
 	<div id="bannerImage"></div>
 </header>
